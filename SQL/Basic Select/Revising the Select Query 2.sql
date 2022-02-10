@@ -1,0 +1,2 @@
+# Soal 2 - JAMPIROJAM
+select NAME from CITY where COUNTRYCODE = 'USA' and POPULATION > 120000;
