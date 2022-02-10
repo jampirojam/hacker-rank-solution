@@ -1,0 +1,2 @@
+# Soal 7 - JAMPIROJAM
+select CITY, STATE from STATION;
