@@ -1,0 +1,2 @@
+# Soal 19 - JAMPIROJAM
+select name from Employee order by name asc;
