@@ -1,2 +1,2 @@
-# Soal 5 - JAMPIROJAM
-select * from CITY where COUNTRYCODE = 'JPN';
+# Soal 6 - JAMPIROJAM
+select NAME from CITY where COUNTRYCODE = 'JPN';
