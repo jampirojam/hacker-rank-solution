@@ -1,0 +1,13 @@
+You are given two sets. 
+Set A = {1,2,3,4,5,6} 
+Set B = {2,3,4,5,6,7,8}
+
+What is the total number of ordered pairs present in the Cartesian Product A×B ?
+42
+
+---
+Berapa jumlah dari Himpunan A jika dikali dengan Humpunan B.
+Set A = 6
+Set B = 7
+A*B = 6*7
+A*B = 42
