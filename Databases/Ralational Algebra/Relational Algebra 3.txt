@@ -1,0 +1,12 @@
+Which is a join condition contains an equality operator?
+- Equijoins
+- Natural
+- Cartesian
+- Left
+
+---
+Equijoins, karena Natural, Cartesian, dan Left merupakan bagian dari Equijoins.
+Equijoins sendiri merupakan Join yang hanya ditandai dengan operator sama dengan (=).
+
+Contoh,
+select I.Nama_Anak, B.Nama_Burung from Ibu I join Bapak B on I.IDA = B.IDB;
