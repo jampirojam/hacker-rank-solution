@@ -1,0 +1,10 @@
+This OLAP operation involves computing all of the data relationships for one or more dimensions.
+- DICE
+- Pivot
+- Roll-up
+- Slice
+
+---
+Roll-up, karena Roll-up Operation melibatkan komputasi semua hubungan data untuk satu dimensi atau lebih. Roll-up melakukan agregasi pada datacube dengan salah satu cara berikut: 
+- Dengan memanjat hierarki konsep untuk suatu dimensi 
+- Dengan pengurangan dimensi
