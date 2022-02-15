@@ -1,0 +1,8 @@
+This OLAP Operation rotates the data, and delivers an alternative to the original presentation. 
+- Pivot
+- DICE
+- Roll-up
+- SLice
+
+---
+Pivot, karena dapat memutar sumbu data dan mengganti presentasi data asli ke data pengganti.
